@@ -1,2 +1,0 @@
-# Sizeof
-Riya Poojary
